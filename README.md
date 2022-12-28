@@ -81,8 +81,10 @@
 </details>
 
 #### Lista pluginów:
+
 <details>
   <summary><b>Lista pluginów na serwerze: </b></summary>
+
 ```
 ;//=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=//
 ;//=-=-=-=-=                   ONLY DD2 2022 by N1K1Cz      /\^-^/\      =-=-=-=-=//
