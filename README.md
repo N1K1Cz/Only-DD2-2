@@ -5,7 +5,7 @@
 ## Compatibility
 - 1.9-dev+5235 (tylko na tej wersji testowałem)
 
-## Configuration
+### Configuration
 
 <details>
   <summary><b>Co należy zrobić po wgraniu paczki na serwer?: </b></summary>
@@ -80,7 +80,7 @@
 
 </details>
 
-#### Lista pluginów:
+### Lista pluginów:
 
 <details>
   <summary><b>Lista pluginów na serwerze: </b></summary>
